@@ -1,0 +1,7 @@
+I am a Python developer with a strong interest in data analysis and machine learning.
+I have experience working with Python libraries such as pandas, numpy, matplotlib,
+and scikit-learn for data processing and visualization.
+
+I have basic knowledge of SQL for database handling and GitHub for version control.
+I am familiar with data structures, algorithms, and object-oriented programming.
+I am eager to apply my skills in real-world projects and continuously learn new technologies.

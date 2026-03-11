@@ -1,0 +1,15 @@
+python,10
+machine learning,9
+data analysis,8
+pandas,7
+numpy,7
+sql,6
+scikit-learn,6
+deep learning,5
+tensorflow,5
+data structures,6
+algorithms,6
+git,4
+github,4
+docker,3
+cloud computing,3

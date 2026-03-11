@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Analyzer</title>
+</head>
+<body>
+    <h1>Resume Analyzer</h1>
+
+    <form method="POST" enctype="multipart/form-data">
+        Upload Resume (PDF or TXT):
+        <input type="file" name="resume" required>
+        <button type="submit">Analyze</button>
+    </form>
+
+    {% if result %}
+        <h2>Resume Text:</h2>
+        <pre>{{ result.resume_text }}</pre>
+
+        <h2>Skills Found:</h2>
+        <pre>{{ result.skills_found }}</pre>
+
+        <h2>Weighted Skill Score: {{ result.weighted_score }}%</h2>
+        <h2>AI Similarity Score: {{ result.ai_score }}%</h2>
+
+        <h2>Missing Skills:</h2>
+        <pre>{{ result.missing_skills }}</pre>
+
+        <h2>Recommendations:</h2>
+        <ul>
+            {% for rec in result.recommendations %}
+                <li>{{ rec }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,11 @@
+We are looking for a candidate with strong programming skills in Python.
+The role involves working on data analysis, machine learning models,
+and handling structured and unstructured data.
+
+Candidates should be familiar with pandas, numpy, SQL,
+and machine learning concepts.
+Knowledge of data structures, algorithms, Git, and cloud platforms
+is an added advantage.
+
+The ideal candidate should have problem-solving skills
+and a willingness to learn new technologies.

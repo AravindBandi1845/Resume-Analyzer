@@ -1,0 +1,51 @@
+python
+java
+c
+c++
+sql
+html
+css
+javascript
+typescript
+react
+node.js
+flask
+django
+fastapi
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+pytorch
+machine learning
+deep learning
+data analysis
+data science
+statistics
+power bi
+tableau
+excel
+git
+github
+docker
+kubernetes
+linux
+aws
+azure
+gcp
+rest api
+graphql
+oop
+data structures
+algorithms
+nlp
+computer vision
+cloud computing
+cyber security
+blockchain
+devops
+testing
+automation
+
